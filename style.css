@@ -1,0 +1,26 @@
+* {
+  text-align: center;
+  box-sizing: border-box;
+}
+html {
+  font-size: 10px;
+}
+h2 {
+  font-size: 4rem;
+}
+.inputmark {
+  padding: 10px;
+  border: 1px solid #aaa69d;
+  width: 50%;
+  font-size: 1.5rem;
+  font-weight: 550;
+}
+.ranking {
+  padding: 10px;
+  border: 1px solid #aaa69d;
+  background-color: #ff5252;
+  color: #f7f1e3;
+  font-size: 1.5rem;
+  font-weight: 550;
+  letter-spacing: 2px;
+}
